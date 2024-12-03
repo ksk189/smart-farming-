@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744291732966",
+    "project_id": "smart-farm-d98de",
+    "storage_bucket": "smart-farm-d98de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744291732966:android:c56b9ec924a38ef3755a27",
+        "android_client_info": {
+          "package_name": "com.example.doctorplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrysWVo9DHktn7CJS1Zii4wyiEs6LWr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
